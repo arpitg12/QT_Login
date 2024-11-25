@@ -1,0 +1,4 @@
+C:/Users/USER1/QtSampleProject/build/CMakeFiles/QtSampleProject.dir
+C:/Users/USER1/QtSampleProject/build/CMakeFiles/edit_cache.dir
+C:/Users/USER1/QtSampleProject/build/CMakeFiles/rebuild_cache.dir
+C:/Users/USER1/QtSampleProject/build/CMakeFiles/QtSampleProject_autogen.dir

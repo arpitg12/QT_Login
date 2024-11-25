@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "CMake: Build QtSampleProject",
+            "type": "shell",
+            "command": "cmake",
+            "args": [
+                "--build", 
+                "${workspaceFolder}/build", // This is the build folder where CMake builds the project
+                "--config", 
+                "Debug", // Change this to "Release" if you are building in Release mode
+                "--target",
+                "QtSampleProject" // The target defined in your CMakeLists.txt file (usually the executable name)
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$msCompile"],
+            "detail": "Build QtSampleProject using CMake"
+        }
+    ]
+}

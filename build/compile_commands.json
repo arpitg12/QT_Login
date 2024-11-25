@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_Debug -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\Debug\\QtSampleProject_autogen\\mocs_compilation_Debug.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\Debug\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\mocs_compilation_Debug.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\mocs_compilation_Debug.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\Debug\\QtSampleProject_autogen\\mocs_compilation_Debug.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_Debug -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\Debug\\src\\main.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\Debug\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\src\\main.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\src\\main.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\Debug\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_Debug -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\Debug\\src\\mainWindow.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\Debug\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\src\\mainWindow.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\src\\mainWindow.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\Debug\\src\\mainWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Debug\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_Debug -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\Debug\\src\\dashboardwindow.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\Debug\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\src\\dashboardwindow.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\src\\dashboardwindow.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\Debug\\src\\dashboardwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_Release -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\Release\\QtSampleProject_autogen\\mocs_compilation_Release.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\Release\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\mocs_compilation_Release.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\mocs_compilation_Release.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\Release\\QtSampleProject_autogen\\mocs_compilation_Release.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_Release -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\Release\\src\\main.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\Release\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\src\\main.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\src\\main.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\Release\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_Release -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\Release\\src\\mainWindow.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\Release\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\src\\mainWindow.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\src\\mainWindow.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\Release\\src\\mainWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"Release\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_Release -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\Release\\src\\dashboardwindow.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\Release\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\src\\dashboardwindow.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\src\\dashboardwindow.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\Release\\src\\dashboardwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_RelWithDebInfo -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\QtSampleProject_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\QtSampleProject_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_RelWithDebInfo -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\src\\main.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\src\\main.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\src\\main.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_RelWithDebInfo -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\src\\mainWindow.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\src\\mainWindow.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\src\\mainWindow.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\src\\mainWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER1/QtSampleProject/build",
+  "command": "C:\\PROGRA~2\\MIB055~1\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IC:\\Users\\USER1\\QtSampleProject\\build\\QtSampleProject_autogen\\include_RelWithDebInfo -IC:\\Users\\USER1\\QtSampleProject\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtCore -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include -external:IC:\\Qt\\6.8.0\\msvc2022_64\\mkspecs\\win32-msvc -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtGui -external:IC:\\Qt\\6.8.0\\msvc2022_64\\include\\QtWidgets -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /Zi /O2 /Ob1 /DNDEBUG -std:c++17 -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\src\\dashboardwindow.cpp.obj /FdCMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\ /FS -c C:\\Users\\USER1\\QtSampleProject\\src\\dashboardwindow.cpp",
+  "file": "C:\\Users\\USER1\\QtSampleProject\\src\\dashboardwindow.cpp",
+  "output": "CMakeFiles\\QtSampleProject.dir\\RelWithDebInfo\\src\\dashboardwindow.cpp.obj"
+}
+]

@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch QtSampleProject",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/bin/debug/QtSampleProject.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/build",
+            "environment": [],
+            "console": "externalTerminal",
+            "preLaunchTask": "CMake: Build QtSampleProject",
+            "visualizerFile": "c:\\Users\\USER1\\AppData\\Roaming\\Code\\User\\workspaceStorage\\42008395fc4d5c25a39755015d964358\\tonka3000.qtvsctools\\qt.natvis.xml"
+        }
+    ]
+}

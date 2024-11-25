@@ -1,0 +1,10 @@
+^C:\USERS\USER1\QTSAMPLEPROJECT\BUILD\CMAKEFILES\F66A8BEF269F4B2F2BEC81BD3BACDC44\GENERATE.STAMP.RULE
+setlocal
+D:\Users\USER1\Downloads\cmake-3.31.0-windows-x86_64\cmake-3.31.0-windows-x86_64\bin\cmake.exe -SC:/Users/USER1/QtSampleProject -BC:/Users/USER1/QtSampleProject/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/USER1/QtSampleProject/build/QtSampleProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
